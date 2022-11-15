@@ -1,4 +1,5 @@
 # WebApiChuckSwapi
+Coded by Lebogang J Papo
 instruction to get the project running
 - install .net 6.0 to run this app
 -install Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer NuGet package
